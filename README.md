@@ -1,6 +1,6 @@
 # get-cotizacion-dnit
 
-Este proyecto es un scrapper que permite obtener cotizaciones de DNIT de manera automatizada. Es especialmente útil mientras la DNIT no provea un webservice para este propósito.
+Este proyecto es un scraper que permite obtener cotizaciones de DNIT de manera automatizada. Es especialmente útil mientras la DNIT no provea un webservice para este propósito.
 
 ⭐ ¡Si este proyecto te resulta útil, no olvides dejar una estrellita en el repositorio!
 
