@@ -17,7 +17,7 @@ Este proyecto es un scraper que permite obtener cotizaciones de DNIT de manera a
 
 1. Clona este repositorio:
   ```bash
-  git clone https://github.com/tu-usuario/get-cotizacion-dnit.git
+  git clone https://github.com/vmartinetti/get-cotizacion-dnit.git
   ```
 2. Instala las dependencias:
   ```bash
